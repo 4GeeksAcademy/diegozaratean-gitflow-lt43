@@ -1,3 +1,4 @@
 a simpel text
 CRUD restaurante
+CRUD menu
 CRUD dish
